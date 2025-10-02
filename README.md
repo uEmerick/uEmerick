@@ -8,13 +8,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com experiência e 
 
 "Cada sonho que você deixa pra trás, é um pedaço do seu futuro que deixa de existir." ~ Steve Jobs
 
-📬 Vamos Conversar
-
-Estou sempre aberto a novas oportunidades e colaborações.
-
-💼 [LinkedIn](https://www.linkedin.com/in/caio-emerick-prosdossimi-61b36b34b/)
-
-📧 caiopros@hotmail.com
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -52,3 +45,14 @@ Estou sempre aberto a novas oportunidades e colaborações.
   />
 
 </p>
+
+<br/>
+<br/>
+
+📬 Vamos Conversar
+
+Estou sempre aberto a novas oportunidades e colaborações.
+
+💼 [LinkedIn](https://www.linkedin.com/in/caio-emerick-prosdossimi-61b36b34b/)
+
+📧 [Email]caiopros@hotmail.com
