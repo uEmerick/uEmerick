@@ -6,7 +6,7 @@ Me chamo Caio Emerick Prosdossimi, tenho 21 anos e sou natural de Presidente Pru
 
 Sou apaixonado por tecnologia e desenvolvimento de software, com experiência e interesse em diversas linguagens e ferramentas. Gosto de explorar novas tecnologias, aprender continuamente e participar de projetos desafiadores que me permitam colocar meus conhecimentos em prática.
 
-Tenho uma abordagem curiosa e multidisciplinar, buscando sempre aprender coisas novas e colaborar em projetos de forma criativa e eficiente.
+"Cada sonho que você deixa pra trás, é um pedaço do seu futuro que deixa de existir." ~ Steve Jobs
 
 ---
 
