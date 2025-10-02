@@ -12,7 +12,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com experiência e 
 
 Estou sempre aberto a novas oportunidades e colaborações.
 
-💼 LinkedIn: Caio Emerick Prosdossimi
+💼 [Caio Emerick Prosdossimi](https://www.linkedin.com/in/caioemerick/)
 
 📧 caiopros@hotmail.com
 ---
