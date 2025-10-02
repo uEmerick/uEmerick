@@ -45,14 +45,3 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com experiência e 
   />
 
 </p>
-
-<br/>
-<br/>
-
-📬 Vamos Conversar
-
-Estou sempre aberto a novas oportunidades e colaborações.
-
-💼 [LinkedIn](https://www.linkedin.com/in/caio-emerick-prosdossimi-61b36b34b/)
-
-📧 [Email]caiopros@hotmail.com
