@@ -4,6 +4,10 @@
 
 Me chamo Caio Emerick Prosdossimi, tenho 21 anos e sou natural de Presidente Prudente-SP. Atualmente, estou cursando Sistemas de Informação na UNOESTE.
 
+Sou apaixonado por tecnologia e desenvolvimento de software, com experiência e interesse em diversas linguagens e ferramentas. Gosto de explorar novas tecnologias, aprender continuamente e participar de projetos desafiadores que me permitam colocar meus conhecimentos em prática.
+
+Tenho uma abordagem curiosa e multidisciplinar, buscando sempre aprender coisas novas e colaborar em projetos de forma criativa e eficiente.
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
